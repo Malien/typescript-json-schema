@@ -34,7 +34,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:Malien/typescript-json-schema.git"
+    "url": "git@github.com:studaco/typescript-json-schema.git"
   },
   "licenses": [
     {

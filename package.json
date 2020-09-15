@@ -1,13 +1,13 @@
 {
-  "name": "typescript-json-schema",
-  "version": "0.43.0",
+  "name": "@studa/typescript-json-schema",
+  "version": "0.43.1",
   "description": "typescript-json-schema generates JSON Schema files from your Typescript sources",
   "main": "dist/typescript-json-schema.js",
   "typings": "dist/typescript-json-schema.d.ts",
   "bin": {
     "typescript-json-schema": "./bin/typescript-json-schema"
   },
-  "author": "Yousef El-Dardiry and Dominik Moritz",
+  "author": "Yousef El-Dardiry and Dominik Moritz, fork by Malien",
   "contributors": [
     {
       "name": "Yousef El-Dardiry",
@@ -26,11 +26,15 @@
     {
       "name": "Fabian Pirklbauer",
       "email": "hi@fabiandev.io"
+    },
+    {
+      "name": "Yaroslav Petryk",
+      "email": "q.link0.p@gmail.com"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:YousefED/typescript-json-schema.git"
+    "url": "git@github.com:Malien/typescript-json-schema.git"
   },
   "licenses": [
     {

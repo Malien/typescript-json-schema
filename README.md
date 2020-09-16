@@ -1,6 +1,8 @@
 # typescript-json-schema
 
-[![npm version](https://img.shields.io/npm/v/typescript-json-schema.svg)](https://www.npmjs.com/package/typescript-json-schema) [![Build Status](https://travis-ci.org/YousefED/typescript-json-schema.svg?branch=master)](https://travis-ci.org/YousefED/typescript-json-schema)
+### Fork of [YousefED/typescript-json-schema](https://github.com/YousefED/typescript-json-schema)
+
+[![npm version](https://img.shields.io/npm/v/@studa/typescript-json-schema.svg)](https://www.npmjs.com/package/@studa/typescript-json-schema)
 
 Generate json-schemas from your Typescript sources.
 
@@ -13,7 +15,7 @@ Generate json-schemas from your Typescript sources.
 
 ### Command line
 
-- Install with `npm install typescript-json-schema -g`
+- Install with `npm install @studa/typescript-json-schema -g`
 - Generate schema from a typescript type: `typescript-json-schema project/directory/tsconfig.json TYPE`
 
 To generate files for only _some_ types in `tsconfig.json` specify
